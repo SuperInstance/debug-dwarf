@@ -1,0 +1,9 @@
+[package]
+name = "debug-dwarf"
+version = "0.1.0"
+description = "A Rust library for Debug Dwarf"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/debug-dwarf"
+edition = "2021"
+
+[dependencies]
